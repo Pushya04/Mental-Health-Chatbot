@@ -114,8 +114,6 @@ Empatalk/
 ├── ml_service/       # Python FastAPI ML service
 │   └── serve_model.py
 │
-├── NLP_model/        # Model training notebooks
-│
 └── README.md
 ```
 
