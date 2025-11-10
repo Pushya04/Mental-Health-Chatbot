@@ -126,7 +126,6 @@ Empatalk/
 - `server/controllers/chatcontroller.js`: Core chat logic, routes messages to ML model.
 - `server/model/userModel.js`: User schema for MongoDB.
 - `ml_service/serve_model.py`: FastAPI app serving the NLP model.
-- `NLP_model/suicide detection/Suicide_detection.ipynb`: Model training and experimentation.
 
 ---
 
