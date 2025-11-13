@@ -20,7 +20,6 @@ A full-stack, AI-powered mental health chatbot designed to provide supportive co
 ## Features
 
 - Real-time chat with AI-powered responses
-- Suicide risk and emotion detection
 - Session-based chat history
 - User authentication and profile management
 - Feedback collection
